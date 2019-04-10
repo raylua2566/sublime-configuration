@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "title=\\$(date +%H%M%S) && hexo new \\$title && subl /Users/mac/Documents/blog/source/_posts/\\$title.md",
+	"path": "/Applications/Sublime Text.app/Contents/SharedSupport/bin:$PATH"
+}
